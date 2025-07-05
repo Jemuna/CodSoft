@@ -73,4 +73,4 @@ This project helped me apply essential data science techniques:
 
 ## 📌 Tags
 
-`#DataScience` `#MachineLearning` `#TitanicPrediction` `#CodSoftInternship` `#Python` `#XGBoost` `#ScikitLearn` `#WomenInTech` `#ShadowCoders`
+`#DataScience` `#MachineLearning` `#TitanicPrediction` `#CodSoftInternship` `#Python` `#XGBoost` `#ScikitLearn` 
